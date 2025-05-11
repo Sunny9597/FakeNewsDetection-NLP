@@ -36,7 +36,8 @@ The project provides a solid foundation for building machine learning models in 
 ## 🚀 **How to Run**
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/house-price-eda.git
+    git clone https://github.com/Sunny9597/minor-project-house-price-analysis.git
+
     ```
 
 2. Install the necessary libraries:
